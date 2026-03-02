@@ -1,0 +1,34 @@
+Validation log loss by season
+Men:
+  2010: logloss=0.55713, games=64
+  2011: logloss=0.65234, games=67
+  2012: logloss=0.58710, games=67
+  2013: logloss=0.60559, games=67
+  2014: logloss=0.60933, games=67
+  2015: logloss=0.51341, games=67
+  2016: logloss=0.57333, games=67
+  2017: logloss=0.54622, games=67
+  2018: logloss=0.62403, games=67
+  2019: logloss=0.52221, games=67
+  2021: logloss=0.63149, games=66
+  2022: logloss=0.66687, games=67
+  2023: logloss=0.61033, games=67
+  2024: logloss=0.58089, games=67
+  2025: logloss=0.50169, games=67
+Women:
+  2011: logloss=0.46066, games=63
+  2012: logloss=0.43557, games=63
+  2013: logloss=0.46128, games=63
+  2014: logloss=0.41582, games=63
+  2015: logloss=0.39182, games=63
+  2016: logloss=0.50653, games=63
+  2017: logloss=0.49829, games=63
+  2018: logloss=0.49379, games=63
+  2019: logloss=0.42439, games=63
+  2021: logloss=0.53100, games=63
+  2022: logloss=0.47617, games=67
+  2023: logloss=0.47219, games=67
+  2024: logloss=0.43060, games=67
+  2025: logloss=0.41725, games=67
+Men average logloss: 0.58546
+Women average logloss: 0.45824
